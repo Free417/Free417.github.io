@@ -22,8 +22,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Brandon's Blog
   type: website
   description: Portfolio and personal blog of Brandon Martinez.
-  image: images/author/john.png
+  image: images/author/me.png
   url: https://hugo-toha.github.io

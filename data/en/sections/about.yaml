@@ -51,33 +51,33 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 100
+  name: Communication
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
-  name: Public Speaking
-  percentage: 100
+  name: Time Management
+  percentage: 60
   color: pink
 
 - type: soft-skill-indicator
-  name: Versatility
-  percentage: 100
+  name: Organization
+  percentage: 80
   color: green
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+  name: Conflict Resolution
+  percentage: 95
+  color: "#A020F0"
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Initiative
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Awareness
+  percentage: 75
   color: orange
 
 # you can also provide color code instead of the color name

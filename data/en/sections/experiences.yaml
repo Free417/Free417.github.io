@@ -11,54 +11,55 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Digital Iris
+    url: "https://digitaliris.com/"
+    location: Racine, Wisconsin
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Digital Iris is a game development studio with veteran industry members on staff. During my time at Digital Iris, I worked on [Salvo](https://digitaliris.com/salvo/).
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Mechanics Designer
+    start: October 2017
+    end: July 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+    - Design and develop pitches for new projects for the studio to pursue
+    - Design, develop and manage new features for Salvo.
+    - Lead small feature team.
+  - designation: AI Programmer
+    start: November 2017
+    end: July 2018
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Implement and test dynamic AI behavior for computer controlled opponents.
+    - Run playtests outside of the studio, take in feedback, adapt features accordingly.
+    - Learn [Behavior Designer](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-behavior-trees-for-everyone-15277) for Unity.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Forever Interactive, Inc.
+    url: "https://www.linkedin.com/company/forever-interactive-llc/"
+    location: Milwaukee, Wisconsin
+    overview: Forever Interactive is a game development studio. I was employed in a temporary position to work on a select few features.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Mechanics Programmer
+    start: February 2018
+    end: July 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Implement and test core gameplay features.
+    - Implement and test several balance changes.
+    - Run playtests outside of the studio, take in feedback, adapt features accordingly.
+
+- company:
+    name: Games Workshop.
+    url: "https://www.games-workshop.com/en-US/Home"
+    location: West Bend, Wisconsin
+    overview: Games Workshop is a British manufacturer of miniature wargames, based in Nottingham, England. Its best-known products are Warhammer Age of Sigmar and Warhammer 40,000.
+  positions:
+  - designation: Store Manager
+    start: April 2021
+    end: March 2022
+    responsibilities:
+    - Clean and maintain store physical location.
+    - Generate excitement around products both in store and using the store's official social media accounts.
+    - Assemble and paint various miniatures.
+    - Keep track of thousands of dollars worth of merchandise.

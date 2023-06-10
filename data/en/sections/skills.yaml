@@ -11,39 +11,65 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Proficient with git-based development. Primarily with Github. Also have experience in working with GitKraken and GitLab."
   url: "https://git-scm.com/"
+
+- name: Team Leadership & Management
+  logo: /images/sections/skills/leadership.png
+  summary: "Experience with leading and managing several teams. Have used for professional projects and academic projects."
+
+- name: Object-Oriented Programming
+  logo: /images/sections/skills/oop.png
+  summary: "Proficient in Object-Oriented Design. Have used for professional projects, hobby projects, and academic projects."
+  url: "https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP?Offer=abMeterCharCount_ctrl"
+
+- name: Scrum & Agile
+  logo: /images/sections/skills/scrum.png
+  summary: "Proficient in the Scrum & Agile software development methodology. Have used for professional projects and academic projects."
+  url: "https://agilemanifesto.org/"
+
+- name: Game Design
+  logo: /images/sections/skills/design.png
+  summary: "Experience designing game mechanics, story, level, aesthetic, and assets. Have used for professional projects, hobby projects, and academic projects."
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Proficient in C/C++ programming. Have used for games, software development, hobby projects, and academic projects."
+  url: "https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,be%20adapted%20to%20multiple%20platforms."
+
+- name: C#
+  logo: /images/sections/skills/csharp.png
+  summary: "Proficient in C# programming. Have used for professional projects and academic projects."
+  url: "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Proficient in Java programming. Have used for software development, hobby projects, and academic projects."
+  url: "https://www.java.com/en/download/help/whatis_java.html"
+
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: "Proficient with the MYSQL system. Have used for database creation, modification, extraction, and queries."
+  url: "https://www.mysql.com/"
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Proficient in Python programming. Hsed for physics simulations and academic projects."
+  url: "https://www.python.org/"
+
+- name: Unity
+  logo: /images/sections/skills/unity.png
+  summary: "Proficient with the Unity Engine. Have used for professional projects (Salvo, Visions of Zosimos) and academic projects."
+  url: "https://unity.com/"
+
+- name: Unreal
+  logo: /images/sections/skills/unreal.png
+  summary: "Proficient with the Unreal Engine. Have used for academic projects (Constellation Cleaners)."
+  url: "https://www.unrealengine.com/en-US"
+
+- name: Gimp
+  logo: /images/sections/skills/gimp.png
+  summary: "Proficient with visual editing software Gimp. Have used for basic graphic design and image editing."
+  url: "https://www.gimp.org/"
