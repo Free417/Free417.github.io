@@ -27,7 +27,7 @@ params:
   gitRepo: https://github.com/Free417/Free417.github.io.git
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
@@ -35,4 +35,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
