@@ -17,37 +17,33 @@ experiences:
     # company overview
     overview: Digital Iris is a game development studio with veteran industry members on staff. During my time at Digital Iris, I worked on [Salvo](https://digitaliris.com/salvo/).
   positions:
-  - designation: Mechanics Designer
+  - designation: Associate Developer
     start: October 2017
     end: July 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop pitches for new projects for the studio to pursue
-    - Design, develop and manage new features for Salvo.
-    - Lead small feature team.
-  - designation: AI Programmer
-    start: November 2017
-    end: July 2018
-    responsibilities:
-    - Implement and test dynamic AI behavior for computer controlled opponents.
-    - Run playtests outside of the studio, take in feedback, adapt features accordingly.
-    - Learn [Behavior Designer](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-behavior-trees-for-everyone-15277) for Unity.
+    - I developed advanced game documentation used for design reference by  team members.
+    - I created and implemented responsive and dynamic computer behavior to oppose the player.
+    - I wrote backstories and lore for the characters and the in-game universe.
+    - I achieved several other smaller tasks; such as customer feedback integration, designing one of the levels, and making small code improvements when requested.
+    - I ran playtests both in and out of the studio to generate feeedback.
 
 - company:
     name: Forever Interactive, Inc.
     url: "https://www.linkedin.com/company/forever-interactive-llc/"
     location: Milwaukee, Wisconsin
-    overview: Forever Interactive is a game development studio. I was employed in a temporary position to work on a select few features.
+    overview: Forever Interactive is a game development studio. During my time there I worked on [Visions of Zosimos](https://store.steampowered.com/app/602600/Visions_of_Zosimos/#:~:text=Visions%20of%20Zosimos%20is%20an%20Online%20Tactical%20CCG%20based%20in,other%20players%20and%20NPC%20monsters.)
   positions:
-  - designation: Mechanics Programmer
+  - designation: Mechanics Programmer and Feature Team Lead
     start: February 2018
     end: July 2018
     responsibilities:
-    - Implement and test core gameplay features.
-    - Implement and test several balance changes.
-    - Run playtests outside of the studio, take in feedback, adapt features accordingly.
+    - I made large sweeping changes to game balance based on player feedback.
+    - I led a feature team in the development of a new in-game faction.
+    - I assisted the various teams in better integrating Scrum & Agile methodology into their work.
+    - I handled programming fundamental system reworks to implement new features.
 
 - company:
     name: Games Workshop.
@@ -55,11 +51,10 @@ experiences:
     location: West Bend, Wisconsin
     overview: Games Workshop is a British manufacturer of miniature wargames, based in Nottingham, England. Its best-known products are Warhammer Age of Sigmar and Warhammer 40,000.
   positions:
-  - designation: Store Manager
+  - designation: Warhammer Store Manager
     start: April 2021
     end: March 2022
     responsibilities:
-    - Clean and maintain store physical location.
-    - Generate excitement around products both in store and using the store's official social media accounts.
-    - Assemble and paint various miniatures.
-    - Keep track of thousands of dollars worth of merchandise.
+    - I fully ran a Warhammer storefront, including sales, cleaning, stocking, and generating customer engagement.
+    - I cultivated relationships with customers to build a community that generated excitement and engagement.
+    - I handled several complex logistical difficulties within the storefront.
