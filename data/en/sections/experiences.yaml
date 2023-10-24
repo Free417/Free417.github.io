@@ -24,11 +24,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Developed advanced game documentation used for design reference by  team members.
-    - Created and implemented responsive and dynamic computer behavior to oppose the player.
-    - Wrote backstories and lore for the characters and the in-game universe.
-    - Achieved several other smaller tasks; such as customer feedback integration, designing one of the levels, and making small code improvements when requested.
-    - Ran playtests both in and out of the studio to generate feeedback.
+    - Managed all aspects of daily store operations, including sales, inventory, cleaning, stocking, and customer service
+    - Cultivated relationships with customers to foster a community of excitement and engagement, resulting in record-high sales
 
 - company:
     name: Forever Interactive, Inc.
@@ -40,10 +37,10 @@ experiences:
     start: February 2018
     end: July 2018
     responsibilities:
-    - Made large sweeping changes to game balance based on player feedback.
-    - Led a feature team in the development of a new in-game faction.
-    - Assisted the various teams in better integrating Scrum & Agile methodology into their work.
-    - Handled programming fundamental system reworks to implement new features.
+    - Led a feature team of eight members to develop new game content
+    - Implemented sweeping changes to game balance based on player feedback received via social media
+    - Assisted various teams in better integrating Scrum & Agile methodology into their work to improve performance
+    - Programmed fundamental system reworks in C++ to create a more comprehensive framework for handling future features
 
 - company:
     name: Games Workshop.
